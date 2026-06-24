@@ -1,6 +1,6 @@
 # RiskLens
 
-RiskLens is a Flutter Web + FastAPI application that generates a project risk register using Gemini when available and a deterministic fallback engine when the AI provider is unavailable or rate-limited.
+Built a GenAI-powered risk register web app using Flutter Web, FastAPI, and Gemini API to generate project-specific risk scores, executive summaries, mitigation plans, and exportable reports.
 
 ## Features
 

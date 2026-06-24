@@ -141,11 +141,3 @@ Response includes:
 - `source`
 - `fallback_reason`
 
-## Resume Bullets
-
-- Built a deployment-ready AI risk register generator using Flutter Web, FastAPI, and Gemini API.
-- Designed structured AI prompting and schema validation to produce project-specific risk registers with scenario, exposure, mitigation, warning signals, and contingency fields.
-- Implemented deterministic fallback generation with calculated risk scoring for reliable demos during API quota failures.
-- Added browser local storage history, report export, backend health checks, and production configuration through environment variables.
-
-
